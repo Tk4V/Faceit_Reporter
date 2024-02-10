@@ -10,3 +10,4 @@
 # Ignore files with sensitive information
 token.txt
 .gitignore
+output.txt

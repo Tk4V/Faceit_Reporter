@@ -1,0 +1,4 @@
+File Name: photo_2024-02-10_15-20-34.jpg
+File Path: /photo_2024-02-10_15-20-34.jpg
+File Metadata: FileMetadata(client_modified=datetime.datetime(2024, 2, 10, 13, 20, 37), content_hash='18dec6fa61f44f266bacf7161b6abedc1aa86e2ec1e3244cfa4833b4e6c89b82', export_info=NOT_SET, file_lock_info=NOT_SET, has_explicit_shared_members=NOT_SET, id='id:aGRGGgINoowAAAAAAAAACA', is_downloadable=True, media_info=NOT_SET, name='photo_2024-02-10_15-20-34.jpg', parent_shared_folder_id=NOT_SET, path_display='/photo_2024-02-10_15-20-34.jpg', path_lower='/photo_2024-02-10_15-20-34.jpg', preview_url=NOT_SET, property_groups=NOT_SET, rev='0161106e97f16ea000000011c437ec1', server_modified=datetime.datetime(2024, 2, 10, 13, 20, 45), sharing_info=NOT_SET, size=14504, symlink_info=NOT_SET)
+
