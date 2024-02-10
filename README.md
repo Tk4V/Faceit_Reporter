@@ -1,5 +1,7 @@
 # Faceit_Reporter
 
+##ENGLISH TEXT RECOGNITION
+
 pip install requirements.txt
 
 
