@@ -9,3 +9,5 @@
 
 # Ignore files with sensitive information
 token.txt
+output.txt
+
