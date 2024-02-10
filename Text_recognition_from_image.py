@@ -17,7 +17,7 @@ def save_to_file(text, output_file="output.txt"):
 
 if __name__ == "__main__":
     # Replace 'your_image_path.jpg' with the actual path to your image file
-    image_path = '730_20240210133856_1.png'
+    image_path = 'photo_2024-02-10_15-20-34.jpg'
 
     # Perform OCR on the image
     result_text = perform_ocr(image_path)
