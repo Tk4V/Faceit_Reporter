@@ -1,12 +1,12 @@
 # Faceit_Reporter
 
-##ENGLISH TEXT RECOGNITION
+## ENGLISH TEXT RECOGNITION
 
 pip install requirements.txt
 
 
 
-#run
+# run
 
 
 
@@ -14,11 +14,11 @@ python Drop_box_loader.py
 
 
 
-#Change photo path that is equal to photo name  in Text_recognition_from_image.py in line 20 
+# Change photo path that is equal to photo name  in Text_recognition_from_image.py in line 20 
 
 
 
-#run
+# run
 
 
 
@@ -27,4 +27,4 @@ python Text_recognition_from_image.py
 
 
 
-#check output.txt for result
+# check output.txt for result
